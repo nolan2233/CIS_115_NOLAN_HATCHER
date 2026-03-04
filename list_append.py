@@ -1,0 +1,1 @@
+#this program appends a list starting with a func
